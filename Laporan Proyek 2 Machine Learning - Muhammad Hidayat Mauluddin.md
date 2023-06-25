@@ -77,9 +77,9 @@ Pada tahap ini akan dilakukan persiapan untuk data yang akan digunakan agar sela
 
   - Data diperiksa untuk melihat apakah terdapat nilai yang kosong (missing value).
 
-  - Jika ada data yang kosong, biasanya dilakukan penghapusan data tersebut.
+  - Jika ada data yang kosong, akan dilakukan penghapusan data tersebut.
 
-    ![Capture](C:\Users\User\Desktop\Capture.JPG)
+    ![Capture](https://github.com/mauluddin12z/Proyek-2-Machine-Learning-Dicoding-Sistem-Rekomendasi/assets/71598808/20f9d3d5-c01b-452c-86ef-62a97cfb274f)
 
     Gambar 1. Pemeriksaan Data yang kosong pada dataset amazon Sales
 
@@ -93,7 +93,7 @@ Pada tahap ini akan dilakukan persiapan untuk data yang akan digunakan agar sela
 
   - Misalnya, jika terdapat karakter "|" pada kolom rating yang mengakibatkan tipe data tidak dapat diubah menjadi float, maka dilakukan pembersihan data dengan menghilangkan karakter tersebut.
 
-    ![cata cleaning](C:\Users\User\Desktop\cata cleaning.JPG)
+    ![cata cleaning](https://github.com/mauluddin12z/Proyek-2-Machine-Learning-Dicoding-Sistem-Rekomendasi/assets/71598808/6b2fdcd5-bddf-4e18-a72e-ce26b5a727b7)
 
     Gambar 2. Fungsi membersihkan data dari karakter atau kata yang tidak relevan dan merubah tipe data dari kolom rating.
 
@@ -207,7 +207,7 @@ Dengan menggunakan sistem rekomendasi, tabel ini menyajikan beberapa opsi produk
 
 1. **Root Mean Squared Error (RMSE)**: Metrik evaluasi yang umum digunakan dalam collaborative filtering adalah RMSE. Metrik ini mengukur seberapa besar kesalahan model dalam memprediksi peringkat atau preferensi pengguna terhadap item. RMSE dihitung dengan menghitung selisih antara peringkat yang diprediksi oleh model dan peringkat yang sebenarnya, kemudian mengambil akar kuadrat dari rata-rata kuadrat selisih tersebut. Semakin rendah nilai RMSE, semakin baik performa model collaborative filtering dalam memprediksi preferensi pengguna.
 
-   ![RMSE](C:\Users\User\Desktop\RMSE.JPG)
+   ![RMSE](https://github.com/mauluddin12z/Proyek-2-Machine-Learning-Dicoding-Sistem-Rekomendasi/assets/71598808/87be7d95-9207-4bb2-9eae-64d3ed67a3c9)
 
    Gambar 4. Penerapan RMSE
 
@@ -217,7 +217,7 @@ Dengan menggunakan sistem rekomendasi, tabel ini menyajikan beberapa opsi produk
 
    Berikut adalah hasil dari model evaluasi visualisasi matriks :
 
-   ![visualisasi](C:\Users\User\Desktop\visualisasi.png)
+   ![visualisasi](https://github.com/mauluddin12z/Proyek-2-Machine-Learning-Dicoding-Sistem-Rekomendasi/assets/71598808/23f37da5-57bc-4d9a-b267-a859e63b6787)
 
    Gambar 5. Visualisasi Model Metrics RMSE
 
