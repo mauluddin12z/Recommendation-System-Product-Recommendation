@@ -77,7 +77,7 @@ Terdapat  dua model atau algoritma yang digunakan untuk sistem rekomendasi ini, 
 
 Berikut adalah hasil dari algoritma tersebut:
 
-1. ***Content Based Filtering***
+***Content Based Filtering***
 
    Berikut adalah tabel rekomendasi dari produk "Wayona Nylon Braided USB to Lightning Fast Charging and Data Sync Cable Compatible for iPhone 13, 12,11, X, 8, 7, 6, 5, iPad Air, Pro, Mini (3 FT Pack of 1, Grey)" yang kategorinya "Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables"
 
@@ -102,9 +102,9 @@ Berikut adalah hasil dari algoritma tersebut:
 
    
 
-2. ***Collaborative Filtering***
+***Collaborative Filtering***
 
-   ![image-20230625212720944](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20230625212720944.png)
+   ![image-20230625212720944](https://github.com/mauluddin12z/Proyek-2-Machine-Learning-Dicoding-Sistem-Rekomendasi/assets/71598808/fa0a3563-a0e8-4066-947e-3621c5d444ad)
 
    Gambar 1. Gambar top 10 rekomendasi produk menggunakan model *Collaborative Filtering*
 
